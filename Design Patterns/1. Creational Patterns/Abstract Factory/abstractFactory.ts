@@ -63,7 +63,7 @@ class VictorianFurnitureFactory implements FurnitureFactory {
 }
 
 // Use the factories to create products
-function main() {
+function abstractFactoryExample() {
   // factory is the factory that can be repurposed to create different products
   let factory: FurnitureFactory
   
@@ -85,4 +85,4 @@ function main() {
 }
 
 // Run the main function
-main();
+abstractFactoryExample();

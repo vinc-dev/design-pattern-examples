@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist", // Specify the output directory for compiled JavaScript files
+    "rootDir": ".", // Specify the root directory of your source TypeScript files
+    "target": "es6", // Specify ECMAScript target version
+    "module": "commonjs" // Specify module code generation
+  },
+  "include": ["."]
+}

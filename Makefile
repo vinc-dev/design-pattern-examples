@@ -1,3 +1,3 @@
 generate:
-	find . -name "*.js" -type f -delete
+	rm -rf ./dist
 	tsc

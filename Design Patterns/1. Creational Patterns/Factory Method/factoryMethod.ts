@@ -36,7 +36,7 @@ class ConcreteCreatorB implements Creator {
   }
 }
 
-function main() {
+function factoryMethodExample() {
   let creator: Creator;
 
   // Use ConcreteCreatorA to create a Car
@@ -51,4 +51,4 @@ function main() {
 }
 
 // Run the main function
-main();
+factoryMethodExample();

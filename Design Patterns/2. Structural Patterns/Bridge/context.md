@@ -1,0 +1,1 @@
+The `Bridge design pattern` is a structural design pattern that separates the abstraction from its implementation, allowing them to vary independently. This pattern is useful when you want to avoid a permanent binding between an abstraction and its implementation and when both the abstractions and their implementations should be extensible by subclassing.

@@ -1,0 +1,1 @@
+The `Strategy design pattern` is a behavioral pattern that enables an algorithm's behavior to be selected at runtime. It encapsulates different algorithms and allows the client to choose the appropriate one without changing the client's code structure. 

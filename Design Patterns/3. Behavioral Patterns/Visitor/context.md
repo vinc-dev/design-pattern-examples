@@ -1,0 +1,1 @@
+The `Visitor design pattern` is a behavioral pattern that allows adding new operations or algorithms to a group of related objects without modifying their classes. It achieves this by separating the algorithms from the objects on which they operate.

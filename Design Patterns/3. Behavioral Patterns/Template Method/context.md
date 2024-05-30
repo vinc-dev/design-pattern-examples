@@ -1,0 +1,1 @@
+The `Template Method design pattern` is a behavioral pattern that defines the skeleton of an algorithm in a method, deferring some steps to subclasses. It allows subclasses to redefine certain steps of an algorithm without changing its structure. 
